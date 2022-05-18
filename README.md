@@ -12,5 +12,5 @@ Hi! I am learning bash scripts, and Linux scripts.
 </a>
 
 <a href="https://github.com/toomails9999">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=toomails9999&layout=compact&theme=radical&count_private=true&locale=de"
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=toomails9999&layout=compact&theme=radical&count_private=true&locale=en"
 </a>
